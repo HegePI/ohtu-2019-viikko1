@@ -44,8 +44,8 @@ public class VarastoTest {
     @Test
     public void varastoNegatiivisellaTilavuudellaJaAlkusaldolla() {
         varasto = new Varasto(-10, -5);
-        assertEquals(0, varasto.getTilavuus(), vertailuTarkkuus);
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(-10, varasto.getTilavuus(), vertailuTarkkuus);
+        assertEquals(-5, varasto.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
