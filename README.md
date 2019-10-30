@@ -1,5 +1,6 @@
 # ohtu-2019-viikko1
 Ohjelmistotuotanto 2019s, viikko1
+[viikko1, tehtävät 14 - 16](https://github.com/HegePI/ohtu-2019-viikko1-14-16 "https://github.com/HegePI/ohtu-2019-viikko1-14-16")
 
 Kurssilla opetellaan ohjelmistojen kehitykseen liittyviä taitoja, tekniikoita
 ja parhaita käytänteitä.
