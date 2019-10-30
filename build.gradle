@@ -35,8 +35,8 @@ jar {
     manifest {
         attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
     }
-    
-    jacocoTestReport {
+}
+jacocoTestReport {
     reports {
         xml.enabled true
         html.enabled true
